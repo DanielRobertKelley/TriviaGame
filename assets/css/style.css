@@ -1,0 +1,56 @@
+h1 {
+    text-align:center;
+    font-weight:bold;
+    font-size:50px;
+    padding:45px;
+    color:white;
+}
+.header {
+    text-align:center;
+    font-weight:bold;
+    background-color:#343a40;
+    color:white;
+}
+body {
+    background-image: url('../images/bg.jpg');
+}
+#main {
+    color:white;
+
+}
+#questions {
+    text-align:center;
+    color:white;
+    font-size:30px;
+}
+#answers {
+    color:white;
+}
+#options {
+    color:white;
+    text-align:center;
+}
+#answers {
+    color:white;
+    text-align:center;
+}
+#results {
+    color:white;
+    text-align:center;
+}
+.jumbotron {
+    text-align:center;
+    color:black;
+}
+.triviaButton {
+    color:white;
+    text-align:center;
+    padding:25px;
+    font-size:35px;
+}
+#btn {
+    color:black;
+    text-align:center;
+    padding:15px;
+    font-size:25;
+}
